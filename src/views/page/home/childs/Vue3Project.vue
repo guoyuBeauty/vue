@@ -56,7 +56,7 @@
 </template>
 
 <script lang="ts" setup>
-import { computed, reactive, ref } from "vue";
+import { reactive, ref } from "vue";
 import Container from "../../comps/Container.vue";
 import { Plus } from "@element-plus/icons-vue";
 import type { UploadProps } from "element-plus";
