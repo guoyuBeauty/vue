@@ -21,4 +21,4 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+启动项目前请先开启nodejs后台数据，cd ./nodejs/  启动命令 nodemon file.js
